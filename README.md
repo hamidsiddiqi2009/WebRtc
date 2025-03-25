@@ -5,4 +5,4 @@
 - cd WebRtc
 - npm install
 - npm start
-- Go to LocalHost:3030
+- Go to localhost:3030

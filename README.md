@@ -1,7 +1,7 @@
 # WebRtc
 
 ## How to run
-- git clone git@github.com:hamidsiddiqi2009/WebRtc.git
+- git clone https://github.com/hamidsiddiqi2009/WebRtc.git
 - cd WebRtc
 - npm install
 - npm start
